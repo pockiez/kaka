@@ -10,7 +10,7 @@ namespace Kaka.App
     {
         static void Main(string[] args)
         {
-            System.Console.Write("Hello");
+            System.Console.Write("Hello World");
         }
     }
 }
